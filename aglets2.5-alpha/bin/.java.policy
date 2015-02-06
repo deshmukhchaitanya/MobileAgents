@@ -1,0 +1,6 @@
+
+// Entry granting permissions to aglets code.
+grant codeBase "file:/root/Desktop/aglets2.5-alpha/lib/-" {
+    permission java.security.AllPermission;
+};
+    

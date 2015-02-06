@@ -1,0 +1,15 @@
+--> Implementation of mobile agents with a base station and two other nodes.
+   But can be extended for any no. of nodes.
+
+-->Uses retrieve and count as eg. tasks. 1st one retrieves a specified file(E:\test)
+   from given destination ip's(192.168.1.6) and the 2nd one counts and displays the folders
+   and files in a specified folder(D:/Mp3).These both work in windows and need to change
+   paths in them to search or count in any other folder than specified. 
+
+-->Still a lot of scope of improvement in GUI.
+
+-->Can change the task by using new valuse of 'op' variable in the coding of 
+   Home page, and transfering it instead of our eg. task's '.class' file.
+   This just needs new task's '.class' file.
+
+-->Needs a pre-made empty output.txt file in home directory. 

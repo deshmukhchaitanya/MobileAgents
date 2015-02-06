@@ -1,0 +1,2 @@
+http://www.codeproject.com/KB/architecture/MobileAgents.aspx
+http://www.davidreilly.com/topics/software_agents/mobile_agents/
